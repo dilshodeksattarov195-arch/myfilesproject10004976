@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenderify",
+        "uuid": 9558896,
+        "checksum": "67n4o"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
